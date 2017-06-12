@@ -10,7 +10,7 @@
         {
           "category": "RL78G13", 
           "name": "rl78g13", 
-          "url": "https://github.com/GadgetRenesas/ArduinoTest/blob/master/rl78g13-2.0.1.zip",
+          "url": "https://github.com/GadgetRenesas/ArduinoTest/blob/master/rl78g13-2.0.1.zip?raw=true",
           "checksum": "SHA-256:46ffaf877e601123d1f4e7aa8827c2b6b831c71e2cff4069f0f71d643cfe2ced",
           "help": {
             "online": "http://gadget.renesas.com/ja/"
@@ -27,7 +27,7 @@
             }, 
             {
               "name": "GR-ADZUKI"
-            }, 
+            } 
           ], 
           "toolsDependencies": [
             {
@@ -39,10 +39,10 @@
               "packager": "rl78g13", 
               "version": "1.0.0", 
               "name": "rl78"
-            }, 
+            } 
           ], 
           "size": "760705"
-        }, 
+        }
       ], 
 
       "tools": [
@@ -52,11 +52,11 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/GadgetRenesas/ArduinoTest/blob/master/win32-gcc-rl78-1.0.0.zip",
+              "url": "https://github.com/GadgetRenesas/ArduinoTest/blob/master/win32-gcc-rl78-1.0.0.zip?raw=true",
               "archiveFileName": "win32-gcc-rl78-1.0.0.zip",
               "checksum": "SHA-256:ffa85f2164dc31d105ecfde121360081b75f8ebca4448f3c17b759f4f1b3c39c",
               "size": "56444189"
-            },
+            }
           ]
         }, 
         {
@@ -65,13 +65,13 @@
           "systems": [
             {
               "host": "i686-mingw32", 
-              "url": "https://github.com/GadgetRenesas/ArduinoTest/blob/master/win32-rl78-1.0.0.zip", 
+              "url": "https://github.com/GadgetRenesas/ArduinoTest/blob/master/win32-rl78-1.0.0.zip?raw=true", 
               "archiveFileName": "win32-rl78-1.0.0.zip", 
               "checksum": "SHA-256:f216b3996c8b0063f171ad80aaaaf609abcdd6d1e575f0247f4ea35e5fa1bb1f", 
               "size": "1117825"
-            }, 
+            } 
           ]
-        }, 
+        } 
       ], 
 
       "email": "gadget_renesas@lm.renesas.com", 
