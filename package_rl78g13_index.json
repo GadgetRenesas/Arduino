@@ -8,10 +8,10 @@
       "websiteURL": "http://gadget.renesas.com/ja/", 
       "platforms": [
         {
-          "category": "RL78G13", 
+          "category": "RL78G13(Windows)", 
           "name": "rl78g13", 
           "url": "https://github.com/GadgetRenesas/ArduinoTest/blob/master/rl78g13-2.0.1.zip?raw=true",
-          "checksum": "SHA-256:46ffaf877e601123d1f4e7aa8827c2b6b831c71e2cff4069f0f71d643cfe2ced",
+          "checksum": "SHA-256:f16e936bb57acf82f19a1c06786bb283c6deec882008780b55c4bd2c8a8b4445",
           "help": {
             "online": "http://gadget.renesas.com/ja/"
           }, 
