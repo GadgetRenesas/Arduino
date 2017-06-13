@@ -9,7 +9,7 @@
       "platforms": [
         {
           "category": "RL78G13", 
-          "name": "rl78g13", 
+          "name": "rl78g13-win", 
           "url": "https://github.com/GadgetRenesas/ArduinoTest/blob/master/rl78g13-2.0.1.zip?raw=true",
           "checksum": "SHA-256:f16e936bb57acf82f19a1c06786bb283c6deec882008780b55c4bd2c8a8b4445",
           "help": {
