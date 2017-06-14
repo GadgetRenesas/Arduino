@@ -1,0 +1,131 @@
+{
+  "packages": [
+    {
+      "maintainer": "RL78/G13 family", 
+      "help": {
+        "online": "https://www.renesas.com/ja-jp/"
+      }, 
+      "websiteURL": "http://gadget.renesas.com/ja/", 
+      "platforms": [
+        {
+          "category": "RL78G13", 
+          "name": "rl78g13-win", 
+          "url": "https://github.com/GadgetRenesas/ArduinoTest/blob/master/rl78g13-2.0.1.zip?raw=true",
+          "checksum": "SHA-256:f16e936bb57acf82f19a1c06786bb283c6deec882008780b55c4bd2c8a8b4445",
+          "help": {
+            "online": "http://gadget.renesas.com/ja/"
+          }, 
+          "version": "2.0.1", 
+          "architecture": "rl78g13-win", 
+          "archiveFileName": "rl78g13-2.0.1.zip", 
+          "boards": [
+            {
+              "name": "GR-KURUMI"
+            }, 
+            {
+              "name": "GR-COTTON"
+            }, 
+            {
+              "name": "GR-ADZUKI"
+            } 
+          ], 
+          "toolsDependencies": [
+            {
+              "packager": "rl78g13", 
+              "version": "1.0.0", 
+              "name": "gcc-rl78"
+            }, 
+            {
+              "packager": "rl78g13", 
+              "version": "1.0.0", 
+              "name": "rl78"
+            } 
+          ], 
+          "size": "760705"
+        },
+        {
+          "category": "RL78G13", 
+          "name": "rl78g13-osx", 
+          "url": "https://github.com/GadgetRenesas/ArduinoTest/blob/master/osx-rl78g13-2.0.1.zip?raw=true",
+          "checksum": "SHA-256:7fcce7ba0f0f01ce047bf1ca6efcb56357f288f69df4129fd25d3ed72f09987b",
+          "help": {
+            "online": "http://gadget.renesas.com/ja/"
+          }, 
+          "version": "2.0.1", 
+          "architecture": "rl78g13-osx", 
+          "archiveFileName": "osx-rl78g13-2.0.1.zip", 
+          "boards": [
+            {
+              "name": "GR-KURUMI"
+            }, 
+            {
+              "name": "GR-COTTON"
+            }, 
+            {
+              "name": "GR-ADZUKI"
+            } 
+          ], 
+          "toolsDependencies": [
+            {
+              "packager": "rl78g13", 
+              "version": "1.0.0", 
+              "name": "gcc-rl78"
+            }, 
+            {
+              "packager": "rl78g13", 
+              "version": "1.0.0", 
+              "name": "rl78"
+            } 
+          ], 
+          "size": "787716"
+        }
+      ], 
+
+      "tools": [
+        {
+          "version": "1.0.0", 
+          "name": "gcc-rl78", 
+          "systems": [
+            {
+              "host": "i686-mingw32",
+              "url": "https://github.com/GadgetRenesas/ArduinoTest/blob/master/win32-gcc-rl78-1.0.0.zip?raw=true",
+              "archiveFileName": "win32-gcc-rl78-1.0.0.zip",
+              "checksum": "SHA-256:ffa85f2164dc31d105ecfde121360081b75f8ebca4448f3c17b759f4f1b3c39c",
+              "size": "56444189"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "url": "https://github.com/GadgetRenesas/ArduinoTest/blob/master/osx-gcc-rl78-1.0.0.zip?raw=true",
+              "archiveFileName": "osx-gcc-rl78-1.0.0.zip",
+              "checksum": "SHA-256:bb99ae174fdafb4e3ed25f09026fb07ce45d39de81a71a5ae3dd993c81485b75",
+              "size": "40098360"
+            }
+          ]
+        }, 
+        {
+          "version": "1.0.0", 
+          "name": "rl78", 
+          "systems": [
+            {
+              "host": "i686-mingw32", 
+              "url": "https://github.com/GadgetRenesas/ArduinoTest/blob/master/win32-rl78-1.0.0.zip?raw=true", 
+              "archiveFileName": "win32-rl78-1.0.0.zip", 
+              "checksum": "SHA-256:f216b3996c8b0063f171ad80aaaaf609abcdd6d1e575f0247f4ea35e5fa1bb1f", 
+              "size": "1117825"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "url": "https://github.com/GadgetRenesas/ArduinoTest/blob/master/osx-rl78-1.0.0.zip?raw=true", 
+              "archiveFileName": "osx-rl78-1.0.0.zip", 
+              "checksum": "SHA-256:6c0629a2e541bf0aca63d749e983bc61964587340b1de42ef24fefec55738a78", 
+              "size": "40872"
+            } 
+          ]
+        } 
+      ], 
+
+      "email": "gadget_renesas@lm.renesas.com", 
+      "name": "rl78g13"
+    }
+  ]
+}
