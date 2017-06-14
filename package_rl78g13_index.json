@@ -47,7 +47,8 @@
           "category": "RL78G13", 
           "name": "rl78g13-osx", 
           "url": "https://github.com/GadgetRenesas/ArduinoTest/blob/master/osx-rl78g13-2.0.1.zip?raw=true",
-          "checksum": "SHA-256:7fcce7ba0f0f01ce047bf1ca6efcb56357f288f69df4129fd25d3ed72f09987b",
+          "checksum": "SHA-256:dd99859378d8382a29f38d23bd9024ecd3f0a26f4dda3b58c0d62a76637064df",
+
           "help": {
             "online": "http://gadget.renesas.com/ja/"
           }, 
@@ -77,7 +78,7 @@
               "name": "rl78"
             } 
           ], 
-          "size": "787716"
+          "size": "760723"
         }
       ], 
 
@@ -97,7 +98,7 @@
               "host": "x86_64-apple-darwin",
               "url": "https://github.com/GadgetRenesas/ArduinoTest/blob/master/osx-gcc-rl78-1.0.0.zip?raw=true",
               "archiveFileName": "osx-gcc-rl78-1.0.0.zip",
-              "checksum": "SHA-256:bb99ae174fdafb4e3ed25f09026fb07ce45d39de81a71a5ae3dd993c81485b75",
+              "checksum": "SHA-256:f777e1307d0fbfb96ccbfadd9048b18f11debe53553d06ea48df448aad0df3b8",
               "size": "40098360"
             }
           ]
@@ -117,7 +118,8 @@
               "host": "x86_64-apple-darwin",
               "url": "https://github.com/GadgetRenesas/ArduinoTest/blob/master/osx-rl78-1.0.0.zip?raw=true", 
               "archiveFileName": "osx-rl78-1.0.0.zip", 
-              "checksum": "SHA-256:6c0629a2e541bf0aca63d749e983bc61964587340b1de42ef24fefec55738a78", 
+              "checksum": "SHA-256:19b1a39c001ed9e0ebf9bd923f314f5b0be2acc9eaaf86b71c5a0ddf101b928c", 
+
               "size": "40872"
             } 
           ]
