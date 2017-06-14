@@ -42,8 +42,7 @@
             } 
           ], 
           "size": "760705"
-        }
-
+        },
         {
           "category": "RL78G13", 
           "name": "rl78g13-osx", 
