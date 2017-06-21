@@ -47,7 +47,7 @@
           "category": "RL78G13", 
           "name": "rl78g13-mac", 
           "url": "https://github.com/GadgetRenesas/ArduinoTest/blob/master/mac-rl78g13-2.0.1.tar.gz?raw=true",
-          "checksum": "ea358df3ace416798ee94c4dd2be0cd9ba6328735570d424d35abd173435f59f",
+          "checksum": "SHA-256:ea358df3ace416798ee94c4dd2be0cd9ba6328735570d424d35abd173435f59f",
 
           "help": {
             "online": "http://gadget.renesas.com/ja/"
