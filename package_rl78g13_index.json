@@ -3,9 +3,9 @@
     {
       "maintainer": "RL78/G13 family", 
       "help": {
-        "online": "https://www.renesas.com/ja-jp/"
+        "online": "http://gadget.renesas.com/"
       }, 
-      "websiteURL": "http://gadget.renesas.com/ja/", 
+      "websiteURL": "http://gadget.renesas.com/", 
       "platforms": [
         {
           "category": "RL78G13", 
