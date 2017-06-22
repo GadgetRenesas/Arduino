@@ -13,7 +13,7 @@
           "url": "https://github.com/GadgetRenesas/ArduinoTest/blob/master/win32-rl78g13-2.0.1.zip?raw=true",
           "checksum": "SHA-256:366c79c78c67ebfeb094d203623c3ad62ed42b981bd9fa3f8cd2be9f4c07be97",
           "help": {
-            "online": "http://gadget.renesas.com/ja/"
+            "online": "http://gadget.renesas.com/en/product/"
           }, 
           "version": "2.0.1", 
           "architecture": "rl78g13-win", 
@@ -50,7 +50,7 @@
           "checksum": "SHA-256:ea358df3ace416798ee94c4dd2be0cd9ba6328735570d424d35abd173435f59f",
 
           "help": {
-            "online": "http://gadget.renesas.com/ja/"
+            "online": "http://gadget.renesas.com/en/product/"
           }, 
           "version": "2.0.1", 
           "architecture": "rl78g13-mac", 
