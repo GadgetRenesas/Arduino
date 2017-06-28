@@ -10,7 +10,7 @@
         {
           "category": "RL78G13", 
           "name": "rl78g13-win", 
-          "url": "https://github.com/GadgetRenesas/ArduinoTest/blob/master/win32-rl78g13-2.0.1.zip?raw=true",
+          "url": "https://github.com/GadgetRenesas/Arduino/blob/master/win32-rl78g13-2.0.1.zip?raw=true",
           "checksum": "SHA-256:366c79c78c67ebfeb094d203623c3ad62ed42b981bd9fa3f8cd2be9f4c07be97",
           "help": {
             "online": "http://gadget.renesas.com/en/product/"
@@ -46,7 +46,7 @@
         {
           "category": "RL78G13", 
           "name": "rl78g13-mac", 
-          "url": "https://github.com/GadgetRenesas/ArduinoTest/blob/master/mac-rl78g13-2.0.1.tar.gz?raw=true",
+          "url": "https://github.com/GadgetRenesas/Arduino/blob/master/mac-rl78g13-2.0.1.tar.gz?raw=true",
           "checksum": "SHA-256:ea358df3ace416798ee94c4dd2be0cd9ba6328735570d424d35abd173435f59f",
 
           "help": {
@@ -89,14 +89,14 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/GadgetRenesas/ArduinoTest/blob/master/win32-gcc-rl78-1.0.0.zip?raw=true",
+              "url": "https://github.com/GadgetRenesas/Arduino/blob/master/win32-gcc-rl78-1.0.0.zip?raw=true",
               "archiveFileName": "win32-gcc-rl78-1.0.0.zip",
               "checksum": "SHA-256:ffa85f2164dc31d105ecfde121360081b75f8ebca4448f3c17b759f4f1b3c39c",
               "size": "56444189"
             },
             {
               "host": "x86_64-apple-darwin",
-              "url": "https://github.com/GadgetRenesas/ArduinoTest/blob/master/mac-gcc-rl78-1.0.0.tar.gz?raw=true",
+              "url": "https://github.com/GadgetRenesas/Arduino/blob/master/mac-gcc-rl78-1.0.0.tar.gz?raw=true",
               "archiveFileName": "mac-gcc-rl78-1.0.0.tar.gz",
               "checksum": "SHA-256:1d34ae5d99df9bf2171959347e3e7a8bf0122a90dceefb4cc54c29638f875c78",
               "size": "39023091"
@@ -109,14 +109,14 @@
           "systems": [
             {
               "host": "i686-mingw32", 
-              "url": "https://github.com/GadgetRenesas/ArduinoTest/blob/master/win32-rl78-1.0.0.zip?raw=true", 
+              "url": "https://github.com/GadgetRenesas/Arduino/blob/master/win32-rl78-1.0.0.zip?raw=true", 
               "archiveFileName": "win32-rl78-1.0.0.zip", 
               "checksum": "SHA-256:f216b3996c8b0063f171ad80aaaaf609abcdd6d1e575f0247f4ea35e5fa1bb1f", 
               "size": "1117825"
             },
             {
               "host": "x86_64-apple-darwin",
-              "url": "https://github.com/GadgetRenesas/ArduinoTest/blob/master/mac-rl78-1.0.0.tar.gz?raw=true", 
+              "url": "https://github.com/GadgetRenesas/Arduino/blob/master/mac-rl78-1.0.0.tar.gz?raw=true", 
               "archiveFileName": "mac-rl78-1.0.0.tar.gz", 
               "checksum": "SHA-256:cf9807eeddefaa59c260eb79db6fcaa0dce9e532cf353027ee3a43a126d97251", 
 
